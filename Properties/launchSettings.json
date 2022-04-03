@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:64748",
-      "sslPort": 44321
+      "applicationUrl": "http://localhost:65283",
+      "sslPort": 44398
     }
   },
   "profiles": {
@@ -16,8 +16,9 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Bcnfolio": {
+    "Mudblazor.Template": {
       "commandName": "Project",
+      "dotnetRunMessages": "true",
       "launchBrowser": true,
       "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
